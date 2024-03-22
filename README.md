@@ -1,2 +1,2 @@
-# Day8_Coding_Challenge
-Creating a caesar-cipher in python 
+# Day8_Coding_Challenge_Caesar_Cipher
+This Python script implements a Caesar cipher encryption and decryption tool. The Caesar cipher is one of the simplest and earliest known encryption techniques, attributed to Julius Caesar. It works by shifting each letter in the message by a fixed amount, known as the shift or key. The script allows users to encode (encrypt) or decode (decrypt) messages by specifying the direction and the shift amount.
